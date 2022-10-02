@@ -1375,6 +1375,7 @@
 - [Francisco Solis](https://github.com/sisco0)
 - [Krishna Raj](https://github.com/krishna-raz)
 - [Joe Irvine](https://github.com/TheShonuff)
+- [Himanshu Mohanty](https://github.com/HimanshuMohanty-Git24)
 
 
 <!-- prettier-ignore-end -->
